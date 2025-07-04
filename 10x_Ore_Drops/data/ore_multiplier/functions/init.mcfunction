@@ -1,0 +1,1 @@
+tellraw @a ["", {"text": "[10x Ore Drops] ", "color": "gold"}, {"text": "已激活！挖矿掉落物现在为10倍数量", "color": "green"}]
